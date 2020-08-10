@@ -1,9 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently working as an intern on an iOS app for Provider Pool. It officially launches to the App Store on August 28th, 2020!
 
-![Provider Pool iOS App]()
+![Provider Pool iOS App](portfolio/ezgif.com-optimize.gif)
 
-[Imgur](https://i.imgur.com/oznlGVS.gifv)
 
 [![PP045a4ecc81d562b7.gif](https://s7.gifyu.com/images/PP045a4ecc81d562b7.gif)](https://gifyu.com/image/cL3f)
 
