@@ -1,11 +1,11 @@
 ### Hi there 👋
-
+🔭 I’m currently working as an intern on an iOS app for Provider Pool. It officially launches to the App Store on August 28th, 2020!
 <!--
 **justingirgis/justingirgis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on an iOS app for Provider Pool. It officially launches on the App Store on August 28th!
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
