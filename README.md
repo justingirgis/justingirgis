@@ -2,7 +2,7 @@
 🔭 I’m currently working as an intern on an iOS app for Provider Pool. It officially launches to the App Store on August 28th, 2020!
 
 ![Provider Pool iOS App](<p align="center">
-  <img width="460" height="300" src="https://github.com/justingirgis/portfolio/blob/master/ezgif.com-optimize.gif">
+  <img width="460" src="https://github.com/justingirgis/portfolio/blob/master/ezgif.com-optimize.gif">
 </p>)
 
 
