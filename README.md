@@ -1,5 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working as an intern on an iOS app for Provider Pool. It officially launches to the App Store on August 28th, 2020!
+
+![Provider Pool iOS App](https://github.com/justingirgis/portfolio/releases/download/untagged-a573344c069cb1cb7376/PP.gif)
 <!--
 **justingirgis/justingirgis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
