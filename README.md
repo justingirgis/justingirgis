@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working as an intern on an iOS app for Provider Pool. It officially launches to the App Store on August 28th, 2020!
+🔭 I’m currently working as a fullstack intern on an iOS app for Provider Pool. It officially launches to the App Store on August 28th, 2020!
 
 <p align="center"> <img width="460" src="https://github.com/justingirgis/portfolio/blob/master/ezgif.com-optimize.gif">
 </p>
